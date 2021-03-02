@@ -1,0 +1,20 @@
+.comeon-content{
+    width: 980px;
+    color: #101010;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.comeon-content .div{
+
+    padding: 70px;
+}
+.comeon-content h2{
+    text-align: center;
+}
+.comeon-content h3{
+    text-align: left;
+}
+.comeon-content .last ul,li{
+    list-style: none;
+    padding-top: 20px;
+}

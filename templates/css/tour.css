@@ -1,0 +1,22 @@
+
+nav .second{
+    margin-top: 300px;
+}
+.content{
+    width: 980px;
+    color: #101010;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.content h2,p{
+    text-align: center;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 16px;
+    color: darkgrey;
+}
+.content img{
+    margin: 0 auto;
+}
